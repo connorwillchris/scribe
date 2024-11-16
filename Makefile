@@ -1,2 +1,2 @@
 all:
-	gcc -o scribe main.c -llua
+	gcc -o scribe main.c -llua -lsqlite3

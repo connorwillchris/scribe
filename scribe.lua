@@ -1,1 +1,1 @@
-open_phonology('Hello, world!');
+new_phonology("Consonants", { "a", "b", "c" })
